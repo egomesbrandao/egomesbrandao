@@ -1,3 +1,5 @@
+![Github stats](https://github-readme-stats.vercel.app/api?username=egomesbrandao&show_icons=true)![Profile views](https://gpvc.arturio.dev/egomesbrandao)
+
 <img src='https://2zrkaq.dm.files.1drv.com/y4m-sYnGRQG55gqBV5UEWTNjnKl78cCF8TpWXv0ybnyJH9vK3uQ5CiJOs4Kcc486I2Gfq7ixlAJMeEaFHlYSGLbw0puBrlucBT4DIrygoT0D_jZS2autJ0D3DxeCWrOHysB4l4ZrbIh_1lIsF7XSgg46J9PKfYLgeNwFo-EvDhDze7_ZoA7ouBzhLiu6a1IZQgNjJv575C6ieHFrBs9X7mp_w?width=660&height=495&cropmode=none' />
 
 ### Hi there 👋
@@ -26,3 +28,5 @@ I'm a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5002135) on 
     - 📸 I like photography, I need to publish a more pro-phots album, but if you want to see some here is my [Instagram](https://www.instagram.com/egomesbrandao/)
 
 Live long and prosper 🖖🏽
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/egomesbrandao)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/egomesbrandao/)
