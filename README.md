@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-My name is Emmanuel G. Brandão, or only Brandão. I'm a [DevOps Consultant](https://www.linkedin.com/in/egomesbrandao/) at [esx](https://www.linkedin.com/company/esx/) from Brazil!
+My name is Emmanuel G. Brandão, or only Brandão. I'm a [CCoE Coordinator](https://www.linkedin.com/in/egomesbrandao/) at [take blip](https://www.linkedin.com/company/takeblip/) from Brazil!
 I'm a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5002135) on Developer Technologies category.
 
 - 🔗 I have personal site, on (Not exactly yet) Github Pages at [https://egomesbrandao.com.br](https://egomesbrandao.com.br)
