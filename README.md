@@ -4,16 +4,18 @@
 
 ### Hi there 👋
 
-My name is Emmanuel G. Brandão, or only Brandão. I'm a [CCoE Coordinator](https://www.linkedin.com/in/egomesbrandao/) at [take blip](https://www.linkedin.com/company/takeblip/) from Brazil!
+My name is Emmanuel G. Brandão, or only Brandão. I'm a [CCoE Team Lead (SRE + Watchdog)](https://www.linkedin.com/in/egomesbrandao/) @ [take blip](https://www.linkedin.com/company/takeblip/) from Brazil!
 I'm a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5002135) on Developer Technologies category.
 
 - 🔗 I have personal site, on (Not exactly yet) Github Pages at [https://egomesbrandao.com.br](https://egomesbrandao.com.br)
 
 - 📝 I also have a blog at [https://deliveringsoftware.com.br](https://deliveringsoftware.com.br)
 
+- I answer questions about Git, Github, Azure, Azure Devops,... in English [![stackoverflow Badge](https://img.shields.io/badge/-@egomesbrandao-6a737c?style=flat-square&labelColor=cccccc&logo=stackoverflow&logoColor=orange&link=https://stackoverflow.com/users/572852/egomesbrandao)](https://stackoverflow.com/users/572852/egomesbrandao) and in Portuguese [![stackoverflow Badge](https://img.shields.io/badge/-@egomesbrandao-6a737c?style=flat-square&labelColor=cccccc&logo=stackoverflow&logoColor=orange&link=https://pt.stackoverflow.com/users/14094/egomesbrandao)](https://pt.stackoverflow.com/users/14094/egomesbrandao) 
+
 - 📹 Subscribe on [Delivering Software channel](https://www.youtube.com/channel/UCv4oKgRNdl2i9VWdZtyXwpw) @ YouTube
 
-- 🐦 [@egomesbrandao](https://twitter.com/egomesbrandao)
+- 🐦 [![Twitter Badge](https://img.shields.io/twitter/follow/egomesbrandao)](https://twitter.com/egomesbrandao)
 - 💬 [Telegram](https://t.me/egomesbrandao)
 
 - 📮 You can also send me an [email](mailto:egomesbrandao@gmail.com)
