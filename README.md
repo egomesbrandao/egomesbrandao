@@ -4,8 +4,9 @@
 
 ### Hi there 👋
 
-My name is Emmanuel G. Brandão, or only Brandão. I'm a [CCoE Team Lead (SRE + Watchdog)](https://www.linkedin.com/in/egomesbrandao/) @ [take blip](https://www.linkedin.com/company/takeblip/) from Brazil!
-I'm a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5002135) on Developer Technologies category.
+My name is Emmanuel G. Brandão, or only Brandão. I'm from Brazil!
+
+I'm 6 times honored with [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5002135) on Developer Technologies category.
 
 - 🔗 I have personal site, on (Not exactly yet) Github Pages at [https://egomesbrandao.com.br](https://egomesbrandao.com.br)
 
